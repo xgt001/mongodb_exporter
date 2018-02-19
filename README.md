@@ -17,6 +17,10 @@ Based on [MongoDB exporter](https://github.com/dcu/mongodb_exporter) by David Cu
 - MongoDB WiredTiger storage-engine metrics (*cache, blockmanger, tickets, etc*)
 
 
+## Binary to run:
+
+In this repo you can use a binary built on go 1.9.4 running on Ubuntu 16.04.3
+
 ## Building and running
 
 ### Building
